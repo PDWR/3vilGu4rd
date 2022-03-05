@@ -22,14 +22,25 @@ When using the tool, be sure to use the absolute path of the Trojan. Failure to 
 
 ![image](https://github.com/PDWR/3vilGu4rd/blob/main/images/3.png)
 
-Tool Features:
+## This is the vedio about the trojan re-online after user log out!!!
+[![3vilGu4rd -- re-online after log out](https://i.ytimg.com/vi/BjFGJIWzoQg/sddefault.jpg)](https://www.youtube.com/watch?v=BjFGJIWzoQg)
+
+
+## This is the vedio about the trojan re-online after user restart machine!!!
+[![3vilGu4rd -- re-online after restart machine](https://i.ytimg.com/vi/3sJ7Tt6wLhs/sddefault.jpg)](https://www.youtube.com/watch?v=3sJ7Tt6wLhs)
+
+
+## Tool Features:
 1. "Mother-child" type daemon process, the mother program has no shellcode or malicious code, reducing the risk of the mother program being discovered
 2. The subroutine has a single function, reducing the detection of malicious programs caused by heuristic detection
 3. Dynamic generation, using the "avalanche effect", the Hash value of each generated file is different
 4. The program self-destructs, the program will self-destruct after executing the function, leaving no trace
 5. The Trojan will restart when the user log out or restart the machine 
 6. VBE format, good versatility, in theory, the system after XP can be used. VBE format is the encrypted version of VBS, the program code and encryption are relatively difficult to crack
-7. At present, it can bypass the detection of domestic anti-software (non-Trojan programs)
+7. At present, it can bypass the detection of do
+
+
+stic anti-software (non-Trojan programs)
 
 
 ## This program is one of the 3vil-toolboxes, and subsequent programs will be updated through GitHub. The other tools you can follow my github or contact me.
