@@ -37,11 +37,7 @@ When using the tool, be sure to use the absolute path of the Trojan. Failure to 
 4. The program self-destructs, the program will self-destruct after executing the function, leaving no trace
 5. The Trojan will restart when the user log out or restart the machine 
 6. VBE format, good versatility, in theory, the system after XP can be used. VBE format is the encrypted version of VBS, the program code and encryption are relatively difficult to crack
-7. At present, it can bypass the detection of do
-
-
-stic anti-software (non-Trojan programs)
-
+7. At present, it can bypass the detection of domestic anti-software (non-Trojan programs)
 
 ## This program is one of the 3vil-toolboxes, and subsequent programs will be updated through GitHub. The other tools you can follow my github or contact me.
 ## Submit [Issues](https://github.com/PDWR/3vilGu4rd/issues) on GitHub if you have any questions!
