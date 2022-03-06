@@ -15,7 +15,6 @@ The operation method is as follows:
 
    3vilGu4rd.vbe (absolute path / Relative path of Trojan) [process name]
 
-When using the tool, be sure to use the absolute path of the Trojan. Failure to do so will result! ! !
 ![image](https://github.com/PDWR/3vilGu4rd/blob/main/images/2.png)
 
 3. Double-click to run the program or use the shell to directly call the program, and the usage and precautions of the program will pop up. Do not execute directly in actual combat
