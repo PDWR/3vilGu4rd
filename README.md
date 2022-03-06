@@ -13,7 +13,7 @@ The operation method is as follows:
 1. Upload the daemon 3vilGu4rd.vbe to the target host, and then upload the Trojan to the victim host (remote.exe, custom path)
 2. Use CS shell to remotely call 3vilGu4rd.vbe to guard our Trojan program.
 
-   3vilGu4rd.vbe (absolute path to Trojan) [process name]
+   3vilGu4rd.vbe (absolute path / Relative path of Trojan) [process name]
 
 When using the tool, be sure to use the absolute path of the Trojan. Failure to do so will result! ! !
 ![image](https://github.com/PDWR/3vilGu4rd/blob/main/images/2.png)
