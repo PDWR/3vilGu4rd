@@ -21,6 +21,7 @@ The operation method is as follows:
 
 ![image](https://github.com/PDWR/3vilGu4rd/blob/main/images/3.png)
 
+
 ## This is the vedio about the trojan re-online after user log out!!!
 [![3vilGu4rd -- re-online after log out](https://i.ytimg.com/vi/BjFGJIWzoQg/sddefault.jpg)](https://www.youtube.com/watch?v=BjFGJIWzoQg)
 
@@ -38,5 +39,8 @@ The operation method is as follows:
 6. VBE format, good versatility, in theory, the system after XP can be used. VBE format is the encrypted version of VBS, the program code and encryption are relatively difficult to crack
 7. At present, it can bypass the detection of domestic anti-software (non-Trojan programs)
 
+
+
+## you can download the vbe-File from the [Release Page](https://github.com/PDWR/3vilGu4rd/releases/) from Here! 
 ## This program is one of the 3vil-toolboxes, and subsequent programs will be updated through GitHub. The other tools you can follow my github or contact me.
 ## Submit [Issues](https://github.com/PDWR/3vilGu4rd/issues) on GitHub if you have any questions!
