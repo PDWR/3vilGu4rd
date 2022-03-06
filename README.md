@@ -3,12 +3,12 @@ This is a daemon process which make a program runing all time.
 
 ![image](https://github.com/PDWR/3vilGu4rd/blob/main/images/logo.png)
 
-3vilGu4rd is a permission maintenance tool. It is written in VBS and packaged into a binary file with a VBE suffix. In theory, all systems after xp can run. After testing, the permissions can be maintained normally in win7, win server 2008, win2019, win10 and win11.
+3vilGu4rd is a persistent maintenance tool. It is written in VBS and packaged into a binary file with a VBE suffix. In theory, all systems after xp can run. After testing, the persistent can be maintained normally in win7, win server 2008, win2019, win10 and win11.
 
 ![image](https://github.com/PDWR/3vilGu4rd/blob/main/images/1.png)
 
 
-You can upload it to the victim's host when you get the host permission, run the program, and specify the backdoor Trojan or other commands to maintain the permission.
+You can upload it to the victim's host when you get the host persistent, run the program, and specify the backdoor Trojan or other commands to maintain the persistent.
 The operation method is as follows:
 1. Upload the daemon 3vilGu4rd.vbe to the target host, and then upload the Trojan to the victim host (remote.exe, custom path)
 2. Use CS shell to remotely call 3vilGu4rd.vbe to guard our Trojan program.
