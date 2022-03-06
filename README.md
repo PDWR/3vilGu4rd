@@ -1,5 +1,5 @@
 # 3vilGu4rd
-This is a daemon process which make a programe runing all time.
+This is a daemon process which make a program runing all time.
 
 ![image](https://github.com/PDWR/3vilGu4rd/blob/main/images/logo.png)
 
